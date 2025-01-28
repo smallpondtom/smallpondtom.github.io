@@ -1,21 +1,31 @@
 main:
 
-  - title: "Project 1 Title"
-    description: "Brief description of the project with key details."
-    image: ./assets/img/teaser_example.png
-    link: "https://project1.com"
+  - title: "LiftAndLearn.jl"
+    description: "Julia package of the nonlinear non-intrusive model reductions methods including Operator Inference and Lift & Learn"
+    image: ./assets/img/LnL_logo.png
+    link: https://smallpondtom.github.io/LiftAndLearn.jl/stable/
 
-  - title: "Project 2 Title"
-    description: "Another description with project details."
-    image: ./assets/img/teaser_example_2.png
-    link: "https://project2.com"
+  - title: "UniqueKronecker.jl"
+    description: "Toolset of the unique Kronecker product operations written in Julia"
+    image: ./assets/img/uniquekronecker_logo.png
+    link: https://smallpondtom.github.io/UniqueKronecker.jl/stable/
 
-  - title: "Project 3 Title"
-    description: "Another description with project details."
-    image: ./assets/img/teaser_example_2.png
-    link: "https://project2.com"
+  - title: "Polynomial Model Reduction Dataset"
+    description: "A suite of polynomial partial differential equation datasets for research and development written in Julia"
+    image: ./assets/img/heat2d.gif
+    link: https://smallpondtom.github.io/PolynomialModelReductionDataset.jl/stable/
 
-  - title: "Project 3 Title"
-    description: "Another description with project details."
-    image: ./assets/img/teaser_example_2.png
-    link: "https://project2.com"
+  - title: "Sequential Quantile Estimator"
+    description: "Julia implementation of several different numerical algorithms to compute the quantiles of data sequentially without storing the data"
+    image: ./assets/img/sequential_quantile.png
+    link: https://github.com/smallpondtom/SequentialQuantileEstimator.jl
+
+  - title: "My dotfiles"
+    description: "Dotfiles for Neovim, Tmux, Vim, Zsh, and Alacritty"
+    image: ./assets/img/neovim.png
+    link: https://github.com/smallpondtom/dotfiles
+
+  - title: "Python Nonlinear Systems"
+    description: "Nonlinear dynamics analysis python tool. Features include phase plots, duffing system, bifurcation, nonlinear approximation methods, etc."
+    image: ./assets/img/invPendVertExcite_phasePlane.png
+    link: https://github.com/smallpondtom/pNLsys

@@ -6,7 +6,9 @@ layout: homepage
 
 I am a Ph.D. student in the School of Aerospace Engineeing at Georgia Institute of 
 Technology, where I am also pursuing a Master’s degree in the School of
-Computational Science and Engineering.
+Computational Science and Engineering. I am a member of the [Aerospace Computational 
+Engineering (ACE) lab](https://www.elizabethqian.com/research/ace-group) supervised 
+under the helm of [Dr. Elizabeth Qian](https://www.elizabethqian.com/home). 
 
 My research focuses on developing data-driven model reduction techniques for
 large-scale dynamical systems, with applications in areas such as fluid
