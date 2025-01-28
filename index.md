@@ -4,8 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at the Georgia Institute of Technology in the School of
-Aerospace Engineering, where I am also pursuing a Master’s degree in
+I am a Ph.D. student in the School of Aerospace Engineeing at Georgia Institute of 
+Technology, where I am also pursuing a Master’s degree in the School of
 Computational Science and Engineering.
 
 My research focuses on developing data-driven model reduction techniques for
