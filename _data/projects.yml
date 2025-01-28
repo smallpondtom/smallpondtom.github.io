@@ -1,0 +1,21 @@
+main:
+
+  - title: "Project 1 Title"
+    description: "Brief description of the project with key details."
+    image: ./assets/img/teaser_example.png
+    link: "https://project1.com"
+
+  - title: "Project 2 Title"
+    description: "Another description with project details."
+    image: ./assets/img/teaser_example_2.png
+    link: "https://project2.com"
+
+  - title: "Project 3 Title"
+    description: "Another description with project details."
+    image: ./assets/img/teaser_example_2.png
+    link: "https://project2.com"
+
+  - title: "Project 3 Title"
+    description: "Another description with project details."
+    image: ./assets/img/teaser_example_2.png
+    link: "https://project2.com"

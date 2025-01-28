@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.8.5"
-
-gem "webrick", "~> 1.8"
+gem "jekyll", "~> 4.3.3"
+gem "webrick", "~> 1.9.0"
+gem "google-protobuf", platforms: :ruby
+gem "csv"
+gem "base64"
