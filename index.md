@@ -30,7 +30,7 @@ engineering challenges.
 
 ## Upcoming Talks and Activities
 
-- **[Mar. 2025]** I will presenting my work on a streaming model reduction approach and data-driven Lyapunov function inference approach at [SIAM CSE](https://www.siam.org/conferences-events/siam-conferences/cse25/) in Fort Worth, TX.
+- **[Mar. 2025]** I will be presenting my work on a streaming model reduction approach and data-driven Lyapunov function inference approach at [SIAM CSE](https://www.siam.org/conferences-events/siam-conferences/cse25/) in Fort Worth, TX.
 
 ## Recent News
 
